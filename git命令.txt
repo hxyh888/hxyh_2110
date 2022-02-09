@@ -7,4 +7,5 @@ git命令
 6.git log 查看提交的版本
 7.git log --pretty=oneline   显示到一行里面
 8.git reset --hrad head^ 回退上一个版本    head~100  回退到100版本之前
-
+9.撤销到add后的状态  git checkout -- 文件名
+10.撤销到commit后的状态  git checkout -- 文件名
