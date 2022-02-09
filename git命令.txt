@@ -3,3 +3,4 @@ git命令
 2.git add 文件名  把文件添加到本地仓库
 3.git commit -m"描述文件" 把文件提价到本地仓库
 4.git status 查看当前仓库的状态
+5.git diff 查看修改的内容
